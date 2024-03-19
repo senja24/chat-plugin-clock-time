@@ -1,9 +1,9 @@
 {
-  "name": "@lobehub/chat-plugin-clock-time",
+  "name": "@senja24/chat-plugin-clock-time",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/lobehub/chat-plugin-clock-time",
-  "repository": "https://github.com/lobehub/chat-plugin-clock-time.git",
+  "homepage": "https://github.com/senja24/chat-plugin-clock-time",
+  "repository": "https://github.com/senja24/chat-plugin-clock-time.git",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",

@@ -10,9 +10,9 @@
       }
     }
   ],
-  "author": "LobeHub",
+  "author": "Senja",
   "createAt": "2023-11-01",
-  "homepage": "https://github.com/lobehub/chat-plugin-clock-time",
+  "homepage": "https://github.com/senja24/chat-plugin-clock-time",
   "identifier": "clock-time",
   "meta": {
     "avatar": "🕐",
@@ -22,7 +22,7 @@
   },
   "type": "standalone",
   "ui": {
-    "url": "https://clock-time.chat-plugin.lobehub.com",
+    "url": "https://clock-time.chat-plugin.cleek.id",
     "height": 350,
     "width": 400
   },
